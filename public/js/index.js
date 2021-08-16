@@ -1,3 +1,6 @@
+setTimeout(()=>{
+  alert('Hey there, this app is currently under development, you can contribute to this open source project at Github.com/Akohjesse/Dropp-converter')
+}, 2000)
 
 this.addEventListener('click', (e)=> {
    if(e.target.classList.contains('menu_box')){
